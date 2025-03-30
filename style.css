@@ -121,9 +121,11 @@ header nav a:hover {
 }
 
 #about {
-    background-color: #ecf0f1;
+    background: url('Image_for_jewelry/onas.png') no-repeat center center/cover;
+  color:white;
     padding: 60px 20px;
     text-align: center;
+    
 }
 
 #about h2 {
